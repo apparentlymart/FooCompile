@@ -1,0 +1,9 @@
+
+function int getfive(int dummy) {
+    return 5;
+}
+
+function void main() {
+    getfive(2);
+}
+
